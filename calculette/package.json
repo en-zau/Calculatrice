@@ -1,0 +1,16 @@
+{
+  "name": "calculette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculette.js",
+  "scripts": {
+    "start": "node calculette.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "prompt": "^1.2.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
